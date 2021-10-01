@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atatuzuner61
 - 👀 I’m interested in learning new coding languages and implementations.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently working on a React Native project.
 - 💞️ I’m looking to collaborate on full stack and web development.
 - 📫 How to reach me:
 LinkedIn: www.linkedin.com/in/ata-tüzüner-188014198

@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a React Native project.
 - 💞️ I’m looking to collaborate on full stack and web development.
 - 📫 How to reach me:
-LinkedIn: www.linkedin.com/in/ata-tüzüner-188014198
+LinkedIn: www.linkedin.com/in/ata-tüzüner
 
 
 <!---
